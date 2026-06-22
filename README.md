@@ -1,4 +1,4 @@
- # fortnitepy-edit
+ # fortnitepy_edit
 
 [![Supported py versions](https://img.shields.io/pypi/pyversions/fortnitepy-edit.svg)](https://pypi.org/project/fortnitepy-edit/)
 [![Current pypi version](https://img.shields.io/pypi/v/fortnitepy-edit.svg)](https://pypi.org/project/fortnitepy-edit/)
